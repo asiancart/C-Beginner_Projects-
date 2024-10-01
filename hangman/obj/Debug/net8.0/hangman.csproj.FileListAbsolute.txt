@@ -1,0 +1,15 @@
+C:\Users\ilyass\Desktop\c#calisma\calclator\C-Beginner_Projects-\hangman\bin\Debug\net8.0\hangman.exe
+C:\Users\ilyass\Desktop\c#calisma\calclator\C-Beginner_Projects-\hangman\bin\Debug\net8.0\hangman.deps.json
+C:\Users\ilyass\Desktop\c#calisma\calclator\C-Beginner_Projects-\hangman\bin\Debug\net8.0\hangman.runtimeconfig.json
+C:\Users\ilyass\Desktop\c#calisma\calclator\C-Beginner_Projects-\hangman\bin\Debug\net8.0\hangman.dll
+C:\Users\ilyass\Desktop\c#calisma\calclator\C-Beginner_Projects-\hangman\bin\Debug\net8.0\hangman.pdb
+C:\Users\ilyass\Desktop\c#calisma\calclator\C-Beginner_Projects-\hangman\obj\Debug\net8.0\hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyass\Desktop\c#calisma\calclator\C-Beginner_Projects-\hangman\obj\Debug\net8.0\hangman.AssemblyInfoInputs.cache
+C:\Users\ilyass\Desktop\c#calisma\calclator\C-Beginner_Projects-\hangman\obj\Debug\net8.0\hangman.AssemblyInfo.cs
+C:\Users\ilyass\Desktop\c#calisma\calclator\C-Beginner_Projects-\hangman\obj\Debug\net8.0\hangman.csproj.CoreCompileInputs.cache
+C:\Users\ilyass\Desktop\c#calisma\calclator\C-Beginner_Projects-\hangman\obj\Debug\net8.0\hangman.sourcelink.json
+C:\Users\ilyass\Desktop\c#calisma\calclator\C-Beginner_Projects-\hangman\obj\Debug\net8.0\hangman.dll
+C:\Users\ilyass\Desktop\c#calisma\calclator\C-Beginner_Projects-\hangman\obj\Debug\net8.0\refint\hangman.dll
+C:\Users\ilyass\Desktop\c#calisma\calclator\C-Beginner_Projects-\hangman\obj\Debug\net8.0\hangman.pdb
+C:\Users\ilyass\Desktop\c#calisma\calclator\C-Beginner_Projects-\hangman\obj\Debug\net8.0\hangman.genruntimeconfig.cache
+C:\Users\ilyass\Desktop\c#calisma\calclator\C-Beginner_Projects-\hangman\obj\Debug\net8.0\ref\hangman.dll
